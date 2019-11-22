@@ -29,7 +29,7 @@ namespace MVC1.Controllers
 
         public ActionResult UPS()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your UPS Page.";
 
             return View();
         }
