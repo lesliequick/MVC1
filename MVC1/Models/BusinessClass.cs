@@ -7,5 +7,7 @@ namespace MVC1.Models
 {
     public class BusinessClass
     {
+        public string Glory { get; set; }
+
     }
 }
