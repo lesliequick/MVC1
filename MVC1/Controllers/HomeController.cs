@@ -26,5 +26,12 @@ namespace MVC1.Controllers
 
             return View();
         }
+
+        public ActionResult UPS()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
